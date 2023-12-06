@@ -9,6 +9,6 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome filip och Adems program");
+        welcomeText.setText("Welcome to the Sudoku game, created by filip and adem");
     }
 }
