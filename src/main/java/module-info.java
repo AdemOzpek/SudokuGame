@@ -5,4 +5,5 @@ module com.example.sudoku {
 
     opens com.example.sudoku to javafx.fxml;
     exports com.example.sudoku;
+    
 }
